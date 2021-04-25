@@ -1,0 +1,19 @@
+{
+	"Version": "v0.1.1",
+	"ServerIP": "127.0.0.1",
+	"ServerPort": "9527",
+	"ServoIP": "192.168.15.201",
+	"ServoPort": "7408",
+	"MotionPlatform": "A6",
+	"MotionTrip": "80",
+    "MotionLead":"5",
+	"MotionSequence": {
+		"A1": 1,
+		"A2": 2,
+		"A3": 3,
+		"A4": 4,
+		"A5": 5,
+		"A6": 6
+	},
+	"MotionFilePath": "D:\\MotionFile"
+}
